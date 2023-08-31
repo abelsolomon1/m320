@@ -1,0 +1,15 @@
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\bin\Debug\net7.0\Taschenrechner_AS.exe
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\bin\Debug\net7.0\Taschenrechner_AS.deps.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\bin\Debug\net7.0\Taschenrechner_AS.runtimeconfig.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\bin\Debug\net7.0\Taschenrechner_AS.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\bin\Debug\net7.0\Taschenrechner_AS.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\obj\Debug\net7.0\Taschenrechner_AS.csproj.AssemblyReference.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\obj\Debug\net7.0\Taschenrechner_AS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\obj\Debug\net7.0\Taschenrechner_AS.AssemblyInfoInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\obj\Debug\net7.0\Taschenrechner_AS.AssemblyInfo.cs
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\obj\Debug\net7.0\Taschenrechner_AS.csproj.CoreCompileInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\obj\Debug\net7.0\Taschenrechner_AS.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\obj\Debug\net7.0\refint\Taschenrechner_AS.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\obj\Debug\net7.0\Taschenrechner_AS.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\obj\Debug\net7.0\Taschenrechner_AS.genruntimeconfig.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Aufgabe 03 Methoden\Taschenrechner_AS\Taschenrechner_AS\obj\Debug\net7.0\ref\Taschenrechner_AS.dll
