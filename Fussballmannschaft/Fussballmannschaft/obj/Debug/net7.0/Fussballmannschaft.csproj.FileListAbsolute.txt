@@ -1,0 +1,15 @@
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\bin\Debug\net7.0\Fussballmannschaft.exe
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\bin\Debug\net7.0\Fussballmannschaft.deps.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\bin\Debug\net7.0\Fussballmannschaft.runtimeconfig.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\bin\Debug\net7.0\Fussballmannschaft.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\bin\Debug\net7.0\Fussballmannschaft.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.csproj.AssemblyReference.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.AssemblyInfoInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.AssemblyInfo.cs
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.csproj.CoreCompileInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\obj\Debug\net7.0\refint\Fussballmannschaft.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.genruntimeconfig.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Fussballmannschaft\Fussballmannschaft\obj\Debug\net7.0\ref\Fussballmannschaft.dll
