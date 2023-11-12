@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Browser_Simulator/1.0.0": {
+        "runtime": {
+          "Browser_Simulator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Browser_Simulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

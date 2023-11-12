@@ -1,0 +1,15 @@
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\bin\Debug\net7.0\Browser_Simulator.exe
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\bin\Debug\net7.0\Browser_Simulator.deps.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\bin\Debug\net7.0\Browser_Simulator.runtimeconfig.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\bin\Debug\net7.0\Browser_Simulator.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\bin\Debug\net7.0\Browser_Simulator.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.csproj.AssemblyReference.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.AssemblyInfoInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.AssemblyInfo.cs
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\refint\Browser_Simulator.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.genruntimeconfig.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\m320\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\ref\Browser_Simulator.dll
